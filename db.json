@@ -44,20 +44,6 @@
 		},
 		{
 			"numvia": 99,
-			"rigvia": "1",
-			"shipno": "ABC100",
-			"delive": "XYZ001",
-			"dtcons": "2018-01-01 12:00:00",
-			"targa": "AB123CD",
-			"ragdes": "Apple Inc.",
-			"indiri": "xxx",
-			"cap": "xxx",
-			"citta": "xxx",
-			"cdpro": "xxx",
-			"cdstat": "xxx"
-		},
-		{
-			"numvia": 99,
 			"rigvia": "2",
 			"shipno": "ABC101",
 			"delive": "XYZ002",
